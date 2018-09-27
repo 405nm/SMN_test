@@ -2,3 +2,4 @@ SSID="Buffalo-G-xxxx"
 psk="abc"
 ‚í‚Í‚Í‚Í‚Í‚Í‚—‚—‚—‚—
 ‚È‚É‚í‚ë‚Ä‚ñ‚Ë‚ñ
+‚»‚ñ‚È‚±‚Æ‚æ‚è‚²”ÑH‚×‚½‚¢
