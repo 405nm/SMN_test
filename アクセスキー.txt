@@ -1,0 +1,3 @@
+SSID="Buffalo-G-xxxx"
+psk="abc"
+‚í‚Í‚Í‚Í‚Í‚Í‚—‚—‚—‚—
